@@ -1,2 +1,2 @@
 # TecBlog
- Ste de Tecnologa
+ Site de Tecnologia,que eu aprendi no Curso da Udemy
